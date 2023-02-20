@@ -1,6 +1,6 @@
 # ImageNet-PI
 
-ImageNet-PI is a relabelled version of the standard ILSVRC2012 ImageNet dataset, in which the labels are provided by a collection of 16 deep neural networks with different architectures pre-trained on the standard ILSVRC2012. It also provides provides privilegd information (PI) about the annotation process in the form of model confidences on each label and meta-data about the networks. The goal of this dataset is to encourage further research on PI and label noise by providing a new large-scale benchmark for research in this area.
+ImageNet-PI is a relabelled version of the standard ILSVRC2012 ImageNet dataset, in which the labels are provided by a collection of 16 deep neural networks with different architectures pre-trained on the standard ILSVRC2012. It also provides privilegd information (PI) about the annotation process in the form of model confidences on each label and meta-data about the networks. The goal of this dataset is to encourage further research on PI and label noise by providing a new large-scale benchmark for research in this area.
 
 ## Download instructions
 
